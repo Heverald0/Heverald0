@@ -43,8 +43,9 @@
 
 ### 🐍 Minha Cobrinha de Contribuições:
 <p align="center">
-  img src="https://raw.githubusercontent.com/Heverald0/Heverald0/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições" />
+  <img src="https://raw.githubusercontent.com/Heverald0/Heverald0/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições" />
 </p>
+
 
 ---
 
