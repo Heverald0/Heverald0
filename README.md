@@ -8,18 +8,6 @@
 
 ---
 
-### 🌐 Conecte-se comigo:
-<p align="left">
-  <a href="linkedin.com/in/heveraldo-augusto-silva-viana-filho-13815526b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:heverald0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### ⚙️ Tecnologias que uso no dia a dia:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
