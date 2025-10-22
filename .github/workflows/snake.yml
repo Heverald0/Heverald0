@@ -11,22 +11,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       # 1️⃣ Clona o repositório
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
-      # 2️⃣ Gera a animação da cobrinha
+      # 2️⃣ Gera a animação da cobrinha (tema escuro + neon)
       - name: Gerar animação da cobrinha 🐍
         uses: Platane/snk@v3
         with:
           github_user_name: Heverald0
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-neon.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF88&color_dots=#0D1117&color_empty=#1E1E1E&color_completed=#00FF88
+            dist/github-contribution-grid-snake-neon.svg?color_snake=#39FF14&color_dots=#0D1117&color_empty=#1E1E1E
 
-      # 3️⃣ Envia resultado para o branch de saída
+      # 3️⃣ Envia o resultado para o branch "output"
       - name: Enviar resultado para o branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -35,6 +35,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 4️⃣ Mostra logs dos arquivos gerados (opcional, mas útil)
+      # 4️⃣ Lista os arquivos gerados (para depuração)
       - name: Listar arquivos gerados
         run: ls -la dist
