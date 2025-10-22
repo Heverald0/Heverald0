@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=Heverald0&label=Profile%20views&color=6aa6f8&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=Heverald0&label=Profile%20views&color=6aa6f8&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 ### 📊 Minhas estatísticas do GitHub:
 <div align="center">
 
-![Heveraldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heverald0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heverald0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Heveraldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heverald0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heverald0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
 </div>
 
