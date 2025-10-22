@@ -57,7 +57,7 @@
 
 <h3 align="center">🐍 Minha Cobrinha de Contribuições</h3>
 <p align="center">
-    <img src="https://github.com/Heverald0/Heverald0/blob/output/github-contribution-grid-snake-neon.svg" alt="snake animation" />
+    <img src="https://github.com/Heverald0/Heverald0/blob/output/github-contribution-grid-snake-colored.svg" alt="snake animation" />
 </p>
 
 ---
